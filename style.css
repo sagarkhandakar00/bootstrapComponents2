@@ -1,0 +1,47 @@
+header{
+	background-color:#37517E;
+	padding:15px 0;
+}
+.navbar-brand img{
+	width:200px;
+}
+.nav-link{
+	font-size:18px;
+	color:#fff !important;
+	font-weight:500;
+	padding:0 15px !important;
+}
+.btn-outline-success{
+	 border-color: #47B2E4;
+	 color:#47B2E4;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #47B2E4;
+    border-color: #47B2E4;
+}
+
+/*modal section*/
+.modal-section{
+	padding:80px 0;
+	background: #37517E;
+}
+.modal-text h1{
+	font-size: 46px;
+	color:#fff;
+	font-weight:700;
+}
+.modal-text p{
+	font-size: 18px;
+	color:#fff;
+	font-weight:500;
+	margin:20px 0;
+}
+.modal-icon a{
+	font-size:45px;
+	color:#47B2E4;
+	text-decoration:none;
+	position:relative;
+	z-index:1;
+
+}
